@@ -25,7 +25,7 @@ function createBot () {
 const bot = mineflayer.createBot({
   host: 'ROBOTOWESMP-nHF6.aternos.me', 
   version: false, // U can replace with 1.16.5 for example, remember to use ', = '1.16.5'
-  username: 'ROBOTOWESMPBOT', 
+  username: 'RobotoweSmpBOT', 
   port: 62339, 
   plugins: [AutoAuth],
   AutoAuth: 'bot112022'
